@@ -221,3 +221,4 @@ import './features/same-page-links.js';
 import './features/linkify-text.js';
 import './features/actions-run-removal.js';
 import './features/new-milestone-button.js';
+import './features/highlight-pr-self-closing-link.js';
